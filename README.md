@@ -19,7 +19,6 @@ A modern full-stack real-time chat application built using MERN stack and Socket
 🚀 <b>Online user status:</b> Know who's online in real time <br>
 👌 <b>Global state management:</b> Handled smoothly with Zustand <br>
 🐞 <b>Error handling:</b> Robust handling on both server & client <br>
-⭐ <b>Deployment:</b> Hosted like a pro — absolutely FREE! <br>
 ⏳ <b>And much more!</b> Keep exploring 🚀 <br><br>
 
 <h3>🛠️ Tech Stack</h3>
@@ -28,7 +27,7 @@ A modern full-stack real-time chat application built using MERN stack and Socket
 <b>Backend:</b> Node.js, Express.js, MongoDB <br>
 <b>WebSockets:</b> Socket.io <br>
 <b>Authentication:</b> JWT <br>
-<b>Deployment:</b> Render / Vercel / Railway / Netlify <br><br>
+<br><br>
 
 <h3>🔐 Features</h3>
 
@@ -54,12 +53,13 @@ chatapp/
 <pre>
 1. Clone the repo:
    git clone https://github.com/yourusername/chatapp.git
-   cd chatapp
+   cd CHAT-APP
 </pre>
 
 <pre>
 2. Start the frontend:
    cd frontend
+   cd CHAT-APP
    npm install
    npm run dev
 </pre>
