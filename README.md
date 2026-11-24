@@ -2,6 +2,7 @@
 <p align="center">
 A modern full-stack real-time chat application built using MERN stack and Socket.io. Beautiful UI, secure auth, and real-time functionality — all in one!
 </p>
+<p align="center">🔗 Live Demo: <a href="https://chat-app-1ben.onrender.com/login">https://chat-app-1ben.onrender.com/login</a></p>
 <br>
 
 ![image](https://github.com/user-attachments/assets/ac5e0033-2bfe-4431-a2d6-d404d6d7dd73)
